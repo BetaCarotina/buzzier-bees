@@ -1,12 +1,12 @@
 {
 	"item.buzzier_bees.four_leaf_clover": "Trébol de cuatro hojas",
 
-	"item.buzzier_bees.honey_wand": "Palito mielero",
-	"item.buzzier_bees.sticky_honey_wand": "Palito mielero pegajoso",
+	"item.buzzier_bees.honey_wand": "Rodillo de miel",
+	"item.buzzier_bees.sticky_honey_wand": "Rodillo de miel pegajoso",
 
 	"item.buzzier_bees.honey_apple": "Manzana melosa",
-	"item.buzzier_bees.honey_bread": "Pan meloso",
-	"item.buzzier_bees.glazed_porkchop": "Chuleta de cerdo caramelizada",
+	"item.buzzier_bees.honey_bread": "Pan de miel",
+	"item.buzzier_bees.glazed_porkchop": "Chuleta de cerdo glaseada",
 	
 	"item.buzzier_bees.silverfish_bottle": "Frasco con lepisma",
 	"item.buzzier_bees.endermite_bottle": "Frasco con endermite",
@@ -18,7 +18,7 @@
 	"item.buzzier_bees.grizzly_bear_spawn_egg": "Generar oso pardo",
 	"item.buzzier_bees.black_bear_spawn_egg": "Generar oso negro",
 	"item.buzzier_bees.bumblebee_spawn_egg": "Generar abejorro",
-	"item.buzzier_bees.moobloom_spawn_egg": "Generar florvaca",
+	"item.buzzier_bees.moobloom_spawn_egg": "Generar floravaca",
 	
 	"block.minecraft.beehive": "Apiario de roble",
 	"block.buzzier_bees.spruce_beehive": "Apiario de abeto",
@@ -26,7 +26,7 @@
 	"block.buzzier_bees.jungle_beehive": "Apiario de jungla",
 	"block.buzzier_bees.acacia_beehive": "Apiario de acacia",
 	"block.buzzier_bees.dark_oak_beehive": "Apiario de roble oscuro",
-	"block.buzzier_bees.crimson_beehive": "Apiario de madera carmesí",
+	"block.buzzier_bees.crimson_beehive": "Apiario carmesí",
 	"block.buzzier_bees.warped_beehive": "Apiario distorsionado",
 
 	"block.buzzier_bees.crystallized_honey_block": "Bloque de miel cristalizada",
@@ -41,11 +41,11 @@
 	"block.buzzier_bees.honeycomb_brick_vertical_slab": "Losa vertical de ladrillos de panal",
 	"block.buzzier_bees.chiseled_honeycomb_bricks": "Ladrillos de panal cincelados",
 
-	"block.buzzier_bees.honeycomb_tiles": "Azulejos de panal",
-	"block.buzzier_bees.honeycomb_tile_stairs": "Escaleras de azulejos de panal",
-	"block.buzzier_bees.honeycomb_tile_slab": "Losa de azulejos de panal",
-	"block.buzzier_bees.honeycomb_tile_wall": "Muro de azulejos de panal",
-	"block.buzzier_bees.honeycomb_tile_vertical_slab": "Losa vertical de azulejos de panal",
+	"block.buzzier_bees.honeycomb_tiles": "Baldosas de panal",
+	"block.buzzier_bees.honeycomb_tile_stairs": "Escaleras de baldosas de panal",
+	"block.buzzier_bees.honeycomb_tile_slab": "Losa de baldosas de panal",
+	"block.buzzier_bees.honeycomb_tile_wall": "Muro de baldosas de panal",
+	"block.buzzier_bees.honeycomb_tile_vertical_slab": "Losa vertical de baldosas de panal",
 
 	"block.buzzier_bees.honeycomb_door": "Puerta de panal",
 	"block.buzzier_bees.honeycomb_trapdoor": "Trampilla de panal",
@@ -61,6 +61,7 @@
 	"block.buzzier_bees.candle": "Vela",
 	"block.buzzier_bees.soul_candle": "Vela de almas",
 	"block.buzzier_bees.ender_candle": "Vela de ender",
+	"block.buzzier_bees.cursed_candle": "Vela maldita",
 
 	"block.buzzier_bees.white_candle": "Vela blanca",
 	"block.buzzier_bees.orange_candle": "Vela naranja",
@@ -125,7 +126,7 @@
 	"entity.buzzier_bees.grizzly_bear": "Oso pardo",
 	"entity.buzzier_bees.black_bear": "Oso negro",
 	"entity.buzzier_bees.bumblebee": "Abejorro",
-	"entity.buzzier_bees.moobloom": "Florvaca",
+	"entity.buzzier_bees.moobloom": "Floravaca",
 
 	"entity.minecraft.villager.buzzier_bees.apiarist": "Apicultor",
 
@@ -168,7 +169,7 @@
 	"advancements.husbandry.honey_apple.description": "Usa una manzana melosa para curar la levitación",
 	
 	"advancements.husbandry.honey_bread.title": "Buenos presagios",
-	"advancements.husbandry.honey_bread.description": "Usa pan meloso para curar el mal presagio",
+	"advancements.husbandry.honey_bread.description": "Usa un pan de miel para curar el mal presagio",
 	
 	"advancements.husbandry.glazed_porkchop.title": "Rodillas débiles, brazos melosos",
 	"advancements.husbandry.glazed_porkchop.description": "Usa una chuleta de cerdo caramelizada para curar la fatiga al picar",
