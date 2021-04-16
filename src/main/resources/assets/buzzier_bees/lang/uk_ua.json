@@ -16,8 +16,6 @@
   	"item.buzzier_bees.honeycomb_banner_pattern.desc": "Стільник",
   
 	"item.buzzier_bees.grizzly_bear_spawn_egg": "Яйце виклику грізлі",
-	"item.buzzier_bees.black_bear_spawn_egg": "Яйце виклику чорного ведмедя",
-	"item.buzzier_bees.bumblebee_spawn_egg": "Яйце виклику джмеля",
 	"item.buzzier_bees.moobloom_spawn_egg": "Яйце виклику мублума",
 	
 	"block.minecraft.beehive": "Дубовий вулик",
@@ -61,6 +59,7 @@
 	"block.buzzier_bees.candle": "Свічка",
 	"block.buzzier_bees.soul_candle": "Свічка душ",
 	"block.buzzier_bees.ender_candle": "Ендер-свічка",
+	"block.buzzier_bees.cursed_candle": "Проклята свічка",
 	
 	"block.buzzier_bees.white_candle": "Біла свічка",
 	"block.buzzier_bees.orange_candle": "Помаранчева свічка",
@@ -123,8 +122,6 @@
 	"block.buzzier_bees.autumn_crocus_scented_candle": "Autumn Crocus Scented Candle",
 	
 	"entity.buzzier_bees.grizzly_bear": "Грізлі",
-	"entity.buzzier_bees.black_bear": "Чорний ведмідь",
-	"entity.buzzier_bees.bumblebee": "Джміль",
 	"entity.buzzier_bees.moobloom": "Мублум",
 	
 	"entity.minecraft.villager.buzzier_bees.apiarist": "Бджоляр",
@@ -174,7 +171,7 @@
 	"advancements.husbandry.glazed_porkchop.description": "Use a Glazed Porkchop to cure Mining Fatigue",
 	
 	"tooltip.buzzier_bees.is_baby": "Дитинча",
-	"tooltip.buzzier_bees.has_nectar": "Опилена",
+	"tooltip.buzzier_bees.has_nectar": "Запилена",
 	"tooltip.buzzier_bees.is_angry": "Зла",
 	"tooltip.buzzier_bees.has_stung": "Без жала",
 	
